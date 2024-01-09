@@ -20,7 +20,7 @@
 
 在windows server 里安装dns服务
 
-![图片.png](windows+server服务器配置/图片1.png)
+![图片.png](./windows+server服务器配置/图片1.png)
 
 ![图片.png](windows+server服务器配置/图片2.png)
 
