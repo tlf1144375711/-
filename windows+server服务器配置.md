@@ -4,7 +4,7 @@
 
 [C:\Windows\System32\drivers\etc](C:\Windows\System32\drivers\etc)
 
-![图片.png](windows+server服务器配置/图片.png)
+![图片.png](windowsServer服务器配置/图片.png)
 
 这样百度就被屏蔽掉了
 
@@ -20,13 +20,13 @@
 
 在windows server 里安装dns服务
 
-![图片.png](windows+server服务器配置/图片1.png)
+![图片.png](windowsServer服务器配置/图片1.png)
 
-![图片.png](windows+server服务器配置/图片2.png)
+![图片.png](windowsServer服务器配置/图片2.png)
 
-![图片.png](windows+server服务器配置/图片3.png)
+![图片.png](windowsServer服务器配置/图片3.png)
 
-![图片.png](windows+server服务器配置/图片4.png)
+![图片.png](windowsServer服务器配置/图片4.png)
 
 服务器和主机需要在同一网段下
 
@@ -42,7 +42,7 @@ windows server建网站
 
 添加web服务器IIS，然后一路下一步
 
-![图片.png](windows+server服务器配置/图片5.png)
+![图片.png](windowsServer服务器配置/图片5.png)
 
 注意，物理路径要设置权限，Everyone权限，否则别人看不了，配置完这个之后要配置dns服务器
 
