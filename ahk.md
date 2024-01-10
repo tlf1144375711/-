@@ -18,6 +18,7 @@ FileAppend, %Clipboard%`n, C:\\clip_history.txt
 }
 ```
 
+
 ```autohotkey
 ; 检测窗口存在后自动输入密码
 DetectHiddenWindows, off
